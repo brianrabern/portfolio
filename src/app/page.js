@@ -158,13 +158,7 @@ export default function Home() {
               />
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
-                className="rounded-lg object-cover"
-                width={"100%"}
-                height={"100%"}
-               
-                src={bdr}
-              />
+              
             </div>
           </div>
         </section>
